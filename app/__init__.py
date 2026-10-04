@@ -1,0 +1,1 @@
+# PyQPSTricks Studio package
